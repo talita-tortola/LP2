@@ -1,0 +1,10 @@
+C:\Yeogijeogi\LP2 20211\PCalculadora\bin\Debug\PCalculadora.exe.config
+C:\Yeogijeogi\LP2 20211\PCalculadora\bin\Debug\PCalculadora.exe
+C:\Yeogijeogi\LP2 20211\PCalculadora\bin\Debug\PCalculadora.pdb
+C:\Yeogijeogi\LP2 20211\PCalculadora\obj\Debug\PCalculadora.csprojAssemblyReference.cache
+C:\Yeogijeogi\LP2 20211\PCalculadora\obj\Debug\PCalculadora.Form1.resources
+C:\Yeogijeogi\LP2 20211\PCalculadora\obj\Debug\PCalculadora.Properties.Resources.resources
+C:\Yeogijeogi\LP2 20211\PCalculadora\obj\Debug\PCalculadora.csproj.GenerateResource.cache
+C:\Yeogijeogi\LP2 20211\PCalculadora\obj\Debug\PCalculadora.csproj.CoreCompileInputs.cache
+C:\Yeogijeogi\LP2 20211\PCalculadora\obj\Debug\PCalculadora.exe
+C:\Yeogijeogi\LP2 20211\PCalculadora\obj\Debug\PCalculadora.pdb
