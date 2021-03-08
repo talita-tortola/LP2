@@ -1,0 +1,10 @@
+C:\Yeogijeogi\Aulas 20211\LP2 20211\Atividade3\IdentificadorTriangulos\bin\Debug\IdentificadorTriangulos.exe.config
+C:\Yeogijeogi\Aulas 20211\LP2 20211\Atividade3\IdentificadorTriangulos\bin\Debug\IdentificadorTriangulos.exe
+C:\Yeogijeogi\Aulas 20211\LP2 20211\Atividade3\IdentificadorTriangulos\bin\Debug\IdentificadorTriangulos.pdb
+C:\Yeogijeogi\Aulas 20211\LP2 20211\Atividade3\IdentificadorTriangulos\obj\Debug\IdentificadorTriangulos.csprojAssemblyReference.cache
+C:\Yeogijeogi\Aulas 20211\LP2 20211\Atividade3\IdentificadorTriangulos\obj\Debug\IdentificadorTriangulos.Form1.resources
+C:\Yeogijeogi\Aulas 20211\LP2 20211\Atividade3\IdentificadorTriangulos\obj\Debug\IdentificadorTriangulos.Properties.Resources.resources
+C:\Yeogijeogi\Aulas 20211\LP2 20211\Atividade3\IdentificadorTriangulos\obj\Debug\IdentificadorTriangulos.csproj.GenerateResource.cache
+C:\Yeogijeogi\Aulas 20211\LP2 20211\Atividade3\IdentificadorTriangulos\obj\Debug\IdentificadorTriangulos.csproj.CoreCompileInputs.cache
+C:\Yeogijeogi\Aulas 20211\LP2 20211\Atividade3\IdentificadorTriangulos\obj\Debug\IdentificadorTriangulos.exe
+C:\Yeogijeogi\Aulas 20211\LP2 20211\Atividade3\IdentificadorTriangulos\obj\Debug\IdentificadorTriangulos.pdb
