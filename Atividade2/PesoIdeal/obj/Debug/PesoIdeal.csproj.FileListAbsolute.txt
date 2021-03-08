@@ -1,0 +1,20 @@
+C:\Yeogijeogi\LP2 20211\Atividade2\PesoIdeal\bin\Debug\PesoIdeal.exe.config
+C:\Yeogijeogi\LP2 20211\Atividade2\PesoIdeal\bin\Debug\PesoIdeal.exe
+C:\Yeogijeogi\LP2 20211\Atividade2\PesoIdeal\bin\Debug\PesoIdeal.pdb
+C:\Yeogijeogi\LP2 20211\Atividade2\PesoIdeal\obj\Debug\PesoIdeal.csprojAssemblyReference.cache
+C:\Yeogijeogi\LP2 20211\Atividade2\PesoIdeal\obj\Debug\PesoIdeal.Form1.resources
+C:\Yeogijeogi\LP2 20211\Atividade2\PesoIdeal\obj\Debug\PesoIdeal.Properties.Resources.resources
+C:\Yeogijeogi\LP2 20211\Atividade2\PesoIdeal\obj\Debug\PesoIdeal.csproj.GenerateResource.cache
+C:\Yeogijeogi\LP2 20211\Atividade2\PesoIdeal\obj\Debug\PesoIdeal.csproj.CoreCompileInputs.cache
+C:\Yeogijeogi\LP2 20211\Atividade2\PesoIdeal\obj\Debug\PesoIdeal.exe
+C:\Yeogijeogi\LP2 20211\Atividade2\PesoIdeal\obj\Debug\PesoIdeal.pdb
+C:\Yeogijeogi\Aulas 20211\LP2 20211\Atividade2\PesoIdeal\bin\Debug\PesoIdeal.exe.config
+C:\Yeogijeogi\Aulas 20211\LP2 20211\Atividade2\PesoIdeal\bin\Debug\PesoIdeal.exe
+C:\Yeogijeogi\Aulas 20211\LP2 20211\Atividade2\PesoIdeal\bin\Debug\PesoIdeal.pdb
+C:\Yeogijeogi\Aulas 20211\LP2 20211\Atividade2\PesoIdeal\obj\Debug\PesoIdeal.csprojAssemblyReference.cache
+C:\Yeogijeogi\Aulas 20211\LP2 20211\Atividade2\PesoIdeal\obj\Debug\PesoIdeal.Form1.resources
+C:\Yeogijeogi\Aulas 20211\LP2 20211\Atividade2\PesoIdeal\obj\Debug\PesoIdeal.Properties.Resources.resources
+C:\Yeogijeogi\Aulas 20211\LP2 20211\Atividade2\PesoIdeal\obj\Debug\PesoIdeal.csproj.GenerateResource.cache
+C:\Yeogijeogi\Aulas 20211\LP2 20211\Atividade2\PesoIdeal\obj\Debug\PesoIdeal.csproj.CoreCompileInputs.cache
+C:\Yeogijeogi\Aulas 20211\LP2 20211\Atividade2\PesoIdeal\obj\Debug\PesoIdeal.exe
+C:\Yeogijeogi\Aulas 20211\LP2 20211\Atividade2\PesoIdeal\obj\Debug\PesoIdeal.pdb
