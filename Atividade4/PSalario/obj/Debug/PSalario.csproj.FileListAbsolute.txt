@@ -1,0 +1,10 @@
+C:\Yeogijeogi\Aulas 20211\LP2 20211\Atividade4\PSalario\bin\Debug\PSalario.exe.config
+C:\Yeogijeogi\Aulas 20211\LP2 20211\Atividade4\PSalario\bin\Debug\PSalario.exe
+C:\Yeogijeogi\Aulas 20211\LP2 20211\Atividade4\PSalario\bin\Debug\PSalario.pdb
+C:\Yeogijeogi\Aulas 20211\LP2 20211\Atividade4\PSalario\obj\Debug\PSalario.csprojAssemblyReference.cache
+C:\Yeogijeogi\Aulas 20211\LP2 20211\Atividade4\PSalario\obj\Debug\PSalario.Form1.resources
+C:\Yeogijeogi\Aulas 20211\LP2 20211\Atividade4\PSalario\obj\Debug\PSalario.Properties.Resources.resources
+C:\Yeogijeogi\Aulas 20211\LP2 20211\Atividade4\PSalario\obj\Debug\PSalario.csproj.GenerateResource.cache
+C:\Yeogijeogi\Aulas 20211\LP2 20211\Atividade4\PSalario\obj\Debug\PSalario.csproj.CoreCompileInputs.cache
+C:\Yeogijeogi\Aulas 20211\LP2 20211\Atividade4\PSalario\obj\Debug\PSalario.exe
+C:\Yeogijeogi\Aulas 20211\LP2 20211\Atividade4\PSalario\obj\Debug\PSalario.pdb
