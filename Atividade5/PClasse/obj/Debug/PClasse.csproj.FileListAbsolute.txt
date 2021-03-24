@@ -1,0 +1,12 @@
+C:\Yeogijeogi\Aulas 20211\LP2 20211\Atividade5\PClasse\bin\Debug\PClasse.exe.config
+C:\Yeogijeogi\Aulas 20211\LP2 20211\Atividade5\PClasse\bin\Debug\PClasse.exe
+C:\Yeogijeogi\Aulas 20211\LP2 20211\Atividade5\PClasse\bin\Debug\PClasse.pdb
+C:\Yeogijeogi\Aulas 20211\LP2 20211\Atividade5\PClasse\obj\Debug\PClasse.csprojAssemblyReference.cache
+C:\Yeogijeogi\Aulas 20211\LP2 20211\Atividade5\PClasse\obj\Debug\PClasse.Form1.resources
+C:\Yeogijeogi\Aulas 20211\LP2 20211\Atividade5\PClasse\obj\Debug\PClasse.frmHorista.resources
+C:\Yeogijeogi\Aulas 20211\LP2 20211\Atividade5\PClasse\obj\Debug\PClasse.frmMensalista.resources
+C:\Yeogijeogi\Aulas 20211\LP2 20211\Atividade5\PClasse\obj\Debug\PClasse.Properties.Resources.resources
+C:\Yeogijeogi\Aulas 20211\LP2 20211\Atividade5\PClasse\obj\Debug\PClasse.csproj.GenerateResource.cache
+C:\Yeogijeogi\Aulas 20211\LP2 20211\Atividade5\PClasse\obj\Debug\PClasse.csproj.CoreCompileInputs.cache
+C:\Yeogijeogi\Aulas 20211\LP2 20211\Atividade5\PClasse\obj\Debug\PClasse.exe
+C:\Yeogijeogi\Aulas 20211\LP2 20211\Atividade5\PClasse\obj\Debug\PClasse.pdb
