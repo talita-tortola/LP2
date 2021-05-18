@@ -1,0 +1,11 @@
+C:\YEOGIJEOGI\Aulas 20211\LP2 20211\Atividade8\PAtividade8\bin\Debug\PAtividade8.exe.config
+C:\YEOGIJEOGI\Aulas 20211\LP2 20211\Atividade8\PAtividade8\bin\Debug\PAtividade8.exe
+C:\YEOGIJEOGI\Aulas 20211\LP2 20211\Atividade8\PAtividade8\bin\Debug\PAtividade8.pdb
+C:\YEOGIJEOGI\Aulas 20211\LP2 20211\Atividade8\PAtividade8\obj\Debug\PAtividade8.csprojAssemblyReference.cache
+C:\YEOGIJEOGI\Aulas 20211\LP2 20211\Atividade8\PAtividade8\obj\Debug\PAtividade8.Form1.resources
+C:\YEOGIJEOGI\Aulas 20211\LP2 20211\Atividade8\PAtividade8\obj\Debug\PAtividade8.Properties.Resources.resources
+C:\YEOGIJEOGI\Aulas 20211\LP2 20211\Atividade8\PAtividade8\obj\Debug\PAtividade8.csproj.GenerateResource.cache
+C:\YEOGIJEOGI\Aulas 20211\LP2 20211\Atividade8\PAtividade8\obj\Debug\PAtividade8.csproj.CoreCompileInputs.cache
+C:\YEOGIJEOGI\Aulas 20211\LP2 20211\Atividade8\PAtividade8\obj\Debug\PAtividade8.exe
+C:\YEOGIJEOGI\Aulas 20211\LP2 20211\Atividade8\PAtividade8\obj\Debug\PAtividade8.pdb
+C:\YEOGIJEOGI\Aulas 20211\LP2 20211\Atividade8\PAtividade8\obj\Debug\PAtividade8.frmExercicio7.resources
